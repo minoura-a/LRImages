@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[995],{4044:function(e){e.exports=JSON.parse('{"allTagsPath":"/LRImages/blog/tags","slug":"/LRImages/blog/tags/hello","name":"hello","count":2,"permalink":"/LRImages/blog/tags/hello"}')}}]);
